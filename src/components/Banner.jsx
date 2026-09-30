@@ -10,7 +10,7 @@ import deepseek from '../assets/deepseek.png'
 const Banner = () => {
     return (
         <>
-            <section className='relative top-[73px] h-[calc(100vh-73px)] bg-[#ebf0fe]'>
+            <section className='relative top-[73px] lg:h-[calc(100vh-73px)] bg-[#ebf0fe]'>
                 <div className='py-10 items-start gap-[45px] w-[90%] mx-auto'>
                     <div className="lg:flex">
                         <div className='lg:w-[50%]'>
