@@ -26,7 +26,7 @@ const Header = () => {
 
     return (
         <>
-            <header className='fixed top-0 z-999 bg-white w-full'>
+            <header className='fixed top-0 z-999 bg-white w-full border-b border-b-gray-200'>
                 <nav className="navbar w-[90%] mx-auto flex items-center justify-between py-3.5">
                     <div className='flex items-center justify-start'>
                         <Image src={logo} width={45} height={45} alt='logo' />

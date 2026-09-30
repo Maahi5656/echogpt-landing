@@ -19,7 +19,7 @@ const FAQ = () => {
       </p>
 
       <div className="mx-auto w-[90%] max-w-4xl">
-        <Accordion.Root type="single" collapsible defaultValue="item-1">
+        <Accordion.Root type="single" collapsible>
           
           <Accordion.Item value="item-1" className="mb-3 overflow-hidden rounded-xl border-2 border-gray-200">
             <Accordion.Header>
